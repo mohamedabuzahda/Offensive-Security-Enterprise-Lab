@@ -164,7 +164,7 @@ Any misuse of the provided information is not the responsibility of the author.
 This project demonstrates hands-on experience in both:
 
 * Enterprise penetration testing
-* Real-world vulnerability assessment
+* Real-world vulnerability assessment 
 
 It reflects industry-level practices used by professional security teams.
 
